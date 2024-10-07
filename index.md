@@ -1,12 +1,12 @@
 ---
-title: "MyTitle."
+title: "I am ironman"
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
+    - label: "Click me"
       url: "/sample/"
 excerpt: " "
 intro:
@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+No context
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
